@@ -1,5 +1,3 @@
----
-
 # Wildlife & Community Impact Analytics Dashboard
 
 ## Overview
