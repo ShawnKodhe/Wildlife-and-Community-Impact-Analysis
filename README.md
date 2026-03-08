@@ -1,7 +1,3 @@
-Below is a **stronger GitHub-style README** with sections that make the project look **professional and portfolio-ready**. It includes description, installation, project structure, and usage.
-
-You can paste this into **README.md**.
-
 ---
 
 # Wildlife & Community Impact Analytics Dashboard
